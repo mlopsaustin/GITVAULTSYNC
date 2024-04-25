@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "TEMPLATES/daily note Template.md",
+                "file": "STUFF/saveupstreamchanges.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TEMPLATES/daily note Template.md",
+                "file": "STUFF/saveupstreamchanges.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TEMPLATES/daily note Template.md",
+                "file": "STUFF/saveupstreamchanges.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TEMPLATES/daily note Template.md"
+                "file": "STUFF/saveupstreamchanges.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "TEMPLATES/daily note Template.md"
+                "file": "STUFF/saveupstreamchanges.md"
               }
             }
           }
@@ -187,12 +187,20 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "06d005336c4c8dfa",
+  "active": "685b21004856a2f9",
   "lastOpenFiles": [
-    "TEMPLATES/uu.md",
-    "TEMPLATES/daily note Template.md",
+    "STUFF/commands i like to run.md",
+    "STUFF/saveupstreamchanges.md",
+    "STUFF/202404241818.md",
+    "STUFF/202404241415.md",
+    "STUFF/202404240017.md",
+    "STUFF/Untitled.md",
     "DAILY NOTES/2024-04-24.md",
     "DAILY NOTES/2024-04-23.md",
+    "DAILY NOTES/2024-04-16.md",
+    "README.md",
+    "TEMPLATES/daily note Template.md",
+    "TEMPLATES/uu.md",
     "VAULT042424/TEMPLATES/uu.md",
     "VAULT042424/TEMPLATES/daily note Template.md",
     "VAULT042424/TEMPLATES",
@@ -216,14 +224,6 @@
     "VAULT042424/ASSETS",
     "VAULT042424/README.md",
     "VAULT042424",
-    "STUFF/202404241415.md",
-    "LINKS/INDEX.md",
-    "DAILY NOTES/20240425.md",
-    "DAILY NOTES/20240418.md",
-    "DAILY NOTES/2024-04-16.md",
-    "DAILY NOTES/2024-04-15.md",
-    "DAILY NOTES/2024-04-21.md",
-    "DAILY NOTES/2024-04-20.md",
     "ASSETS/ATTACHMENTS/66187 1.jpg",
     "ASSETS/ATTACHMENTS/66187.jpg",
     "66187.jpg",
