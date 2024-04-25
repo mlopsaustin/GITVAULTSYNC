@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STUFF/saveupstreamchanges.md",
+                "file": "LINKS/INDEX.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "[\"tags\"]",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUFF/saveupstreamchanges.md",
+                "file": "LINKS/INDEX.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUFF/saveupstreamchanges.md",
+                "file": "LINKS/INDEX.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STUFF/saveupstreamchanges.md"
+                "file": "LINKS/INDEX.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "STUFF/saveupstreamchanges.md"
+                "file": "LINKS/INDEX.md"
               }
             }
           }
@@ -189,13 +189,17 @@
   },
   "active": "685b21004856a2f9",
   "lastOpenFiles": [
+    "202404220946.md",
+    "202404230937.md",
+    "202404240948.md",
+    "202404241043.md",
+    "DAILY NOTES/2024-04-24.md",
     "STUFF/commands i like to run.md",
     "STUFF/saveupstreamchanges.md",
     "STUFF/202404241818.md",
     "STUFF/202404241415.md",
     "STUFF/202404240017.md",
     "STUFF/Untitled.md",
-    "DAILY NOTES/2024-04-24.md",
     "DAILY NOTES/2024-04-23.md",
     "DAILY NOTES/2024-04-16.md",
     "README.md",
@@ -214,15 +218,11 @@
     "VAULT042424/STUFF",
     "VAULT042424/LINKS/INDEX.md",
     "VAULT042424/LINKS",
-    "VAULT042424/DAILY NOTES/2024-04-23.md",
-    "VAULT042424/DAILY NOTES/2024-04-24.md",
-    "VAULT042424/DAILY NOTES/2024-04-16.md",
     "VAULT042424/DAILY NOTES",
     "VAULT042424/ASSETS/ATTACHMENTS/66187 1.jpg",
     "VAULT042424/ASSETS/ATTACHMENTS/66187.jpg",
     "VAULT042424/ASSETS/ATTACHMENTS",
     "VAULT042424/ASSETS",
-    "VAULT042424/README.md",
     "VAULT042424",
     "ASSETS/ATTACHMENTS/66187 1.jpg",
     "ASSETS/ATTACHMENTS/66187.jpg",
