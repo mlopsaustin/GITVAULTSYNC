@@ -3,8 +3,8 @@ ctrl + p == OPEN THE COMMAND PALATTEE
 CTRL + L == to toggle the stupid side bar shit 
 Ctrl + d  == delete a note, ctrl + 0 =  use the stupid ass open switcher
 CTRL D == daily note 
-
-
+CTRL + G == GIT SAVE THE SHIT 
+-----------------------------------------------------
 
 
 
