@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LINKS/INDEX.md",
+                "file": "DAILY NOTES/2024-04-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LINKS/INDEX.md",
+                "file": "DAILY NOTES/2024-04-25.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LINKS/INDEX.md",
+                "file": "DAILY NOTES/2024-04-25.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LINKS/INDEX.md"
+                "file": "DAILY NOTES/2024-04-25.md"
               }
             }
           },
@@ -163,12 +163,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "LINKS/INDEX.md"
+                "file": "DAILY NOTES/2024-04-25.md"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -189,18 +189,19 @@
   },
   "active": "685b21004856a2f9",
   "lastOpenFiles": [
+    "DAILY NOTES/2024-04-23.md",
+    "DAILY NOTES/2024-04-24.md",
+    "DAILY NOTES/2024-04-25.md",
     "202404220946.md",
     "202404230937.md",
     "202404240948.md",
     "202404241043.md",
-    "DAILY NOTES/2024-04-24.md",
     "STUFF/commands i like to run.md",
     "STUFF/saveupstreamchanges.md",
     "STUFF/202404241818.md",
     "STUFF/202404241415.md",
     "STUFF/202404240017.md",
     "STUFF/Untitled.md",
-    "DAILY NOTES/2024-04-23.md",
     "DAILY NOTES/2024-04-16.md",
     "README.md",
     "TEMPLATES/daily note Template.md",
@@ -216,7 +217,6 @@
     "VAULT042424/STUFF/202404241415.md",
     "VAULT042424/STUFF/202404240017.md",
     "VAULT042424/STUFF",
-    "VAULT042424/LINKS/INDEX.md",
     "VAULT042424/LINKS",
     "VAULT042424/DAILY NOTES",
     "VAULT042424/ASSETS/ATTACHMENTS/66187 1.jpg",
