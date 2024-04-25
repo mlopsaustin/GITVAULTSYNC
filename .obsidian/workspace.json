@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY NOTES/2024-04-25.md",
+                "file": "202404241043.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY NOTES/2024-04-25.md",
+                "file": "202404241043.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY NOTES/2024-04-25.md",
+                "file": "202404241043.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY NOTES/2024-04-25.md"
+                "file": "202404241043.md"
               }
             }
           },
@@ -163,12 +163,12 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DAILY NOTES/2024-04-25.md"
+                "file": "202404241043.md"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -187,14 +187,14 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "685b21004856a2f9",
+  "active": "b5caf868e9af884a",
   "lastOpenFiles": [
+    "202404240948.md",
+    "202404230937.md",
+    "202404220946.md",
+    "DAILY NOTES/2024-04-25.md",
     "DAILY NOTES/2024-04-23.md",
     "DAILY NOTES/2024-04-24.md",
-    "DAILY NOTES/2024-04-25.md",
-    "202404220946.md",
-    "202404230937.md",
-    "202404240948.md",
     "202404241043.md",
     "STUFF/commands i like to run.md",
     "STUFF/saveupstreamchanges.md",
