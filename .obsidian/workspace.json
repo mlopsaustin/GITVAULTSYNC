@@ -1,0 +1,236 @@
+{
+  "main": {
+    "id": "8d9359bd31377021",
+    "type": "split",
+    "children": [
+      {
+        "id": "51bc590da2cccc3f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "685b21004856a2f9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DAILY NOTES/2024-04-24.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "513870817fb32ce4",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4e89a0856e8513c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "06d005336c4c8dfa",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2fc923855e466a92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "[\"tags\"]",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "a76a59f35042a5c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "794eb82eb0bda98d",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "845517154f690f49",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 249.5
+  },
+  "right": {
+    "id": "e92f7698dd693aa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "413e69f6b8568879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "31d7ae68ddb486ac",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "DAILY NOTES/2024-04-24.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": true,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "db1b2fc878c9d5f9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "DAILY NOTES/2024-04-24.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b5caf868e9af884a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "DAILY NOTES/2024-04-24.md"
+              }
+            }
+          },
+          {
+            "id": "09d0c51545ae3f2a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "07a99705de5469ca",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              }
+            }
+          },
+          {
+            "id": "159102d30f0f2286",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "DAILY NOTES/2024-04-24.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 351.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "random-note:Open random note": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "templater-obsidian:Templater": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false
+    }
+  },
+  "active": "685b21004856a2f9",
+  "lastOpenFiles": [
+    "TEMPLATES/daily note Template.md",
+    "DAILY NOTES/2024-04-24.md",
+    "DAILY NOTES/2024-04-23.md",
+    "VAULT042424/TEMPLATES/uu.md",
+    "VAULT042424/TEMPLATES/daily note Template.md",
+    "VAULT042424/TEMPLATES",
+    "VAULT042424/STUFF/thigns i learned about obsidian.md",
+    "VAULT042424/STUFF/commands i like to run.md",
+    "VAULT042424/STUFF/Untitled.md",
+    "VAULT042424/STUFF/202404241818.md",
+    "VAULT042424/STUFF/THE MATRIX.md",
+    "VAULT042424/STUFF/202404241415.md",
+    "VAULT042424/STUFF/202404240017.md",
+    "VAULT042424/STUFF",
+    "VAULT042424/LINKS/INDEX.md",
+    "VAULT042424/LINKS",
+    "VAULT042424/DAILY NOTES/2024-04-23.md",
+    "VAULT042424/DAILY NOTES/2024-04-24.md",
+    "VAULT042424/DAILY NOTES/2024-04-16.md",
+    "VAULT042424/DAILY NOTES",
+    "VAULT042424/ASSETS/ATTACHMENTS/66187 1.jpg",
+    "VAULT042424/ASSETS/ATTACHMENTS/66187.jpg",
+    "VAULT042424/ASSETS/ATTACHMENTS",
+    "VAULT042424/ASSETS",
+    "VAULT042424/README.md",
+    "VAULT042424",
+    "STUFF/202404241415.md",
+    "LINKS/INDEX.md",
+    "DAILY NOTES/20240425.md",
+    "DAILY NOTES/20240418.md",
+    "DAILY NOTES/2024-04-16.md",
+    "DAILY NOTES/2024-04-15.md",
+    "DAILY NOTES/2024-04-21.md",
+    "DAILY NOTES/2024-04-20.md",
+    "STUFF/THE MATRIX.md",
+    "ASSETS/ATTACHMENTS/66187 1.jpg",
+    "ASSETS/ATTACHMENTS/66187.jpg",
+    "66187.jpg",
+    "66187 1.jpg",
+    "ASSETS/ATTACHMENTS",
+    "Untitled",
+    "ASSETS",
+    "Untitled.canvas"
+  ]
+}

@@ -1,0 +1,42 @@
+{
+  "confirmDeletion": false,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "calendar:show-calendar-view",
+      "icon": "alarm-check",
+      "name": "Calendar: Open view",
+      "mode": "any",
+      "color": "#462020"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [],
+  "pageHeader": [],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [
+      "obsidian-git",
+      "obsidian-git",
+      "backlink",
+      "editor-status"
+    ],
+    "leftRibbon": []
+  },
+  "spacing": "25",
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": true,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 7
+  }
+}

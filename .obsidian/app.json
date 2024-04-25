@@ -1,0 +1,11 @@
+{
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "attachmentFolderPath": "ASSETS/ATTACHMENTS",
+  "strictLineBreaks": true,
+  "propertiesInDocument": "source",
+  "livePreview": true,
+  "defaultViewMode": "preview",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false
+}
