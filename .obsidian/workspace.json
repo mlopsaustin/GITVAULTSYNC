@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "DAILY NOTES/2024-04-24.md",
+                "file": "TEMPLATES/daily note Template.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "DAILY NOTES/2024-04-24.md",
+                "file": "TEMPLATES/daily note Template.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "DAILY NOTES/2024-04-24.md",
+                "file": "TEMPLATES/daily note Template.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "DAILY NOTES/2024-04-24.md"
+                "file": "TEMPLATES/daily note Template.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "DAILY NOTES/2024-04-24.md"
+                "file": "TEMPLATES/daily note Template.md"
               }
             }
           }
@@ -182,13 +182,14 @@
       "graph:Open graph view": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "templater-obsidian:Templater": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false
+      "zk-prefixer:Create new unique note": false,
+      "templater-obsidian:Templater": false
     }
   },
-  "active": "685b21004856a2f9",
+  "active": "06d005336c4c8dfa",
   "lastOpenFiles": [
+    "TEMPLATES/uu.md",
     "TEMPLATES/daily note Template.md",
     "DAILY NOTES/2024-04-24.md",
     "DAILY NOTES/2024-04-23.md",
@@ -223,7 +224,6 @@
     "DAILY NOTES/2024-04-15.md",
     "DAILY NOTES/2024-04-21.md",
     "DAILY NOTES/2024-04-20.md",
-    "STUFF/THE MATRIX.md",
     "ASSETS/ATTACHMENTS/66187 1.jpg",
     "ASSETS/ATTACHMENTS/66187.jpg",
     "66187.jpg",
