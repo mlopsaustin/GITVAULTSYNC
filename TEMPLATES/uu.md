@@ -1,5 +1,6 @@
 ---
-Modified: <% tp.file.last_modified_date() %>
+topic:
+whencreated:
 alias:
 tags:
 ---

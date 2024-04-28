@@ -2,8 +2,8 @@
   "accentColor": "",
   "cssTheme": "Solarized",
   "baseFontSizeAction": false,
-  "baseFontSize": 21,
-  "monospaceFontFamily": "BPG Nateli Condenced GPL&GNU",
+  "baseFontSize": 22,
+  "monospaceFontFamily": "Arundina Sans Mono",
   "interfaceFontFamily": "",
-  "textFontFamily": "Bodoni 72"
+  "textFontFamily": "C059"
 }

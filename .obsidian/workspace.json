@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "STUFF/commands i like to run.md",
+                "file": "202404281549.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "STUFF/commands i like to run.md",
+                "file": "202404281549.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "STUFF/commands i like to run.md",
+                "file": "202404281549.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "STUFF/commands i like to run.md"
+                "file": "202404281549.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "STUFF/commands i like to run.md"
+                "file": "202404281549.md"
               }
             }
           }
@@ -172,7 +172,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 351.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,16 +189,21 @@
   },
   "active": "685b21004856a2f9",
   "lastOpenFiles": [
-    "STUFF/thigns i learned about obsidian.md",
-    "STUFF/GITHUB TOKEN.md",
-    "STUFF/commands i like to run.md",
-    "STUFF/saveupstreamchanges.md",
-    "STUFF/THE MATRIX.md",
-    "STUFF/Untitled.md",
     "202404241043.md",
+    "202404281549.md",
+    "202404220946.md",
+    "TEMPLATES/uu.md",
+    "TEMPLATES/daily note Template.md",
+    "DAILY NOTES/2024-04-28.md",
+    "LINKS/INDEX.md",
+    "STUFF/Untitled.md",
     "202404240948.md",
     "202404230937.md",
-    "202404220946.md",
+    "STUFF/commands i like to run.md",
+    "STUFF/thigns i learned about obsidian.md",
+    "STUFF/GITHUB TOKEN.md",
+    "STUFF/saveupstreamchanges.md",
+    "STUFF/THE MATRIX.md",
     "DAILY NOTES/2024-04-25.md",
     "DAILY NOTES/2024-04-23.md",
     "DAILY NOTES/2024-04-24.md",
@@ -206,15 +212,10 @@
     "STUFF/202404240017.md",
     "DAILY NOTES/2024-04-16.md",
     "README.md",
-    "TEMPLATES/daily note Template.md",
-    "TEMPLATES/uu.md",
     "VAULT042424/TEMPLATES/uu.md",
     "VAULT042424/TEMPLATES/daily note Template.md",
     "VAULT042424/TEMPLATES",
     "VAULT042424/STUFF/thigns i learned about obsidian.md",
-    "VAULT042424/STUFF/commands i like to run.md",
-    "VAULT042424/STUFF/Untitled.md",
-    "VAULT042424/STUFF/202404241818.md",
     "VAULT042424/STUFF",
     "VAULT042424/LINKS",
     "VAULT042424/DAILY NOTES",
