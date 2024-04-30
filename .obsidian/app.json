@@ -3,7 +3,7 @@
   "promptDelete": false,
   "attachmentFolderPath": "ASSETS/ATTACHMENTS",
   "strictLineBreaks": true,
-  "propertiesInDocument": "source",
+  "propertiesInDocument": "visible",
   "livePreview": true,
   "defaultViewMode": "preview",
   "alwaysUpdateLinks": true,

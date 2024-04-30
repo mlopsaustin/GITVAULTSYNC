@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "202404281549.md",
+                "file": "TEMPLATES/uu.md",
                 "mode": "source",
                 "source": false
               }
@@ -101,7 +101,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "202404281549.md",
+                "file": "TEMPLATES/uu.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "202404281549.md",
+                "file": "TEMPLATES/uu.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "202404281549.md"
+                "file": "TEMPLATES/uu.md"
               }
             }
           },
@@ -163,7 +163,7 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "202404281549.md"
+                "file": "TEMPLATES/uu.md"
               }
             }
           }
@@ -189,16 +189,20 @@
   },
   "active": "685b21004856a2f9",
   "lastOpenFiles": [
-    "202404241043.md",
-    "202404281549.md",
-    "202404220946.md",
-    "TEMPLATES/uu.md",
     "TEMPLATES/daily note Template.md",
+    "TEMPLATES/uu.md",
+    "202404300838.md",
+    "README.md",
+    "DAILY NOTES/2024-04-30.md",
+    "WORK",
+    "WORK/202404281549.md",
+    "WORK/202404241043.md",
+    "WORK/202404220946.md",
     "DAILY NOTES/2024-04-28.md",
     "LINKS/INDEX.md",
     "STUFF/Untitled.md",
-    "202404240948.md",
-    "202404230937.md",
+    "WORK/202404240948.md",
+    "WORK/202404230937.md",
     "STUFF/commands i like to run.md",
     "STUFF/thigns i learned about obsidian.md",
     "STUFF/GITHUB TOKEN.md",
@@ -211,11 +215,8 @@
     "STUFF/202404241415.md",
     "STUFF/202404240017.md",
     "DAILY NOTES/2024-04-16.md",
-    "README.md",
     "VAULT042424/TEMPLATES/uu.md",
-    "VAULT042424/TEMPLATES/daily note Template.md",
     "VAULT042424/TEMPLATES",
-    "VAULT042424/STUFF/thigns i learned about obsidian.md",
     "VAULT042424/STUFF",
     "VAULT042424/LINKS",
     "VAULT042424/DAILY NOTES",
@@ -229,7 +230,6 @@
     "66187.jpg",
     "66187 1.jpg",
     "ASSETS/ATTACHMENTS",
-    "Untitled",
     "ASSETS",
     "Untitled.canvas"
   ]

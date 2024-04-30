@@ -1,6 +1,5 @@
 ---
-topic:
-whencreated:
-alias:
+topic: 
+aliases: 
 tags:
 ---
